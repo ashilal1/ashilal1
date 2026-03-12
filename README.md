@@ -13,12 +13,15 @@
 
 ### 👋 **Hi, I'm ASHISH!**
 
-🚀 **Focus:** Building efficient solutions & exploring the frontiers of tech.
-🌍 **Origin:** Nepal 🇳🇵 | **Current:** Japan 🇯🇵
-🍳 **Special Skills:** Creative Cooking & Ears that move on their own!😆
-🎯 **Goal:** Bridging creativity and technology to build meaningful products.
-
 </div>
+
+🚀 **Focus:** Building efficient solutions & exploring the frontiers of tech.
+
+🌍 **Origin:** Nepal 🇳🇵 | **Current:** Japan 🇯🇵
+
+🍳 **Special Skills:** Creative Cooking & Ears that move on their own!😆
+
+🎯 **Goal:** Bridging creativity and technology to build meaningful products.
 
 ## **GitHub Analytics**
 
